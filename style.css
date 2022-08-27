@@ -11,7 +11,7 @@
 #rabbit {
     width: 70px;
     height: 70px;
-    background-image: url();
+    background-image: url(image.png);
     background-size: auto 70px;
     position: relative;
     top: 143px;
@@ -42,7 +42,7 @@
     position: relative;
     top: 91px;
     left: 580px; /*width of frame*/
-    background-image: url();
+    background-image: url(carrot-png.png);
     background-size: 20px 40px;
     animation: carrot-block 1.2s infinite linear;
 }
